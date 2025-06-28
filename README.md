@@ -1,4 +1,4 @@
-# JS AI Body Tracker
+# Blazepose_Realtime
 
 A JavaScript library for real-time human pose estimation using TensorFlow.js. Supports webcam, video files, and online streams.
 
@@ -63,11 +63,5 @@ tracker.on('beforeupdate', function(poses) {
 });
 ```
 
-## Live Demo
-
-https://szczyglis.dev/js-ai-body-tracker
-
-## License
-
-MIT License | 2022 Marcin 'szczyglis' Szczygliński
+## How to run
 
